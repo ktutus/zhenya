@@ -8,6 +8,6 @@ font-size: 256px;
 right: 26%;
 background-color: yellowgreen;
 color: white;}
-a:focus{
+a:hover{
 background-color: violet;
 }
